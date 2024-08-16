@@ -45,7 +45,7 @@ int main(int argc, char *argv[])
             return EXIT_FAILURE;
         }
     } else if (command == "cat-file") {
-        if(std::string(argv[2]) != "p" ) {
+        if(argc < 4 || std::string(argv[2]) != "-p" ) {
             std::cerr << "Missing paramerter: -p <hash>\n";
             return  EXIT_FAILURE;
         }
