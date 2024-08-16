@@ -1,4 +1,3 @@
-[![progress-banner](https://backend.codecrafters.io/progress/git/6bed0fb1-90bb-4113-9993-7183b879e686)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a starting point for C++ solutions to the
 ["Build Your Own Git" Challenge](https://codecrafters.io/challenges/git).
